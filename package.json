@@ -1,0 +1,20 @@
+
+{
+  "name": "priyanshu-tiny-text-kit",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript package for common text manipulation utilities",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "text",
+    "string",
+    "javascript",
+    "text-utils",
+    "string-utils"
+  ],
+  "author": "Priyanshu Dutta",
+  "license": "MIT"
+}
